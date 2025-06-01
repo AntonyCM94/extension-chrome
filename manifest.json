@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Mi Extension Moderna",
+  "version": "1.0.0",
+  "description": "Una extensión de Chrome moderna con React y Tailwind.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": []
+}
